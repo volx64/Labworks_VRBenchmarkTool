@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 537fb9ede054ec54da8d6d97482590a2, type: 3}
+  m_Name: Target - PC 8GB
+  m_EditorClassIdentifier: VRBenchworks::VRBenchWorks.PlatformTargetBenchmarkData
+  MainMS:
+    Max: 40
+    Red: 33.33333
+    Orange: 22.22222
+    Yellow: 16.666668
+    Green: 11.11111
+  BatchCounts:
+    Max: 1000
+    Red: 100000
+    Orange: 60000
+    Yellow: 40000
+    Green: 30000
+  MaterialCounts:
+    Max: 100
+    Red: 0
+    Orange: 0
+    Yellow: 0
+    Green: 0
+  TriangleCounts:
+    Max: 500000
+    Red: 0
+    Orange: 0
+    Yellow: 0
+    Green: 0
+  VerticeCounts:
+    Max: 500000
+    Red: 110005000
+    Orange: 100005000
+    Yellow: 83338380
+    Green: 66666660
+  MaximumRAM: 8192

@@ -1,0 +1,17 @@
+{
+    "name": "VRBenchworks",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:8efef0e48627b4af5a28950b21575514"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
