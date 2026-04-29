@@ -4,14 +4,17 @@
   "displayName": "Benchmark Standalone",
   "description": "Alternative to Unity's profiler, automating repeatable benchmarks on mobile devices. Intended to be used with VR headsets",
   "unity": "6000.3",
- "keywords": [
+  "keywords": [
     "Benchmark",
     "Analysis",
     "Performance"
   ],
   "author": {
     "name": "Volx64",
-    "email": "admin@Labworksgames.com",
-    "url": "https://www.labworksgames.com/"
+    "url": "https://www.labworksgames.com/",
+    "email": "admin@Labworksgames.com"
+  },
+  "dependencies": {
+    "com.unity.xr.management": "4.5.3"
   }
 }
