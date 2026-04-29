@@ -22,6 +22,9 @@ Easiest way to install this package is via Unity's Package Manager:
 
 To get started create an new Empty game object and add a `VR Benchmark Player` component.
 
+<img width="649" height="654" alt="image" src="https://github.com/user-attachments/assets/c426144e-3d15-495b-81c9-9a4774b3eac0" />
+
+
 Open Benchmark editor and create new benchmark data
 
 Add points using camera's position and tweak
