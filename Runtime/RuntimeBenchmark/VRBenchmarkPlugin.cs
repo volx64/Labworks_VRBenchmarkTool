@@ -87,7 +87,7 @@ namespace VRBenchWorks
             CreateInstance().doBenchmark = true;
         }
 
-        public static void DisableBenchamrks()
+        public static void DisableBenchmarks()
         {
             CreateInstance().doBenchmark = false;
         }
