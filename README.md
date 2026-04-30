@@ -5,6 +5,8 @@ Credit to:
 Mert Öztürk for the "PlottingGraph" class - unity-graph-editor:
 https://github.com/mertcanozturk/unity-graph-editor
 
+https://youtu.be/jXTFAB-dlbY
+
 Easiest way to install this package is via Unity's Package Manager:
 
   Open Package manager
